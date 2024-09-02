@@ -1,4 +1,4 @@
-[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)
+![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)
 <h1 align="center">Hi 👋, I'm B.Ravi Ganesh</h1>
 <h3 align="center">Hey I'm RG a B.E-CSE graduate and a budding full-stack developer at the start of his career. I am skilled in both front-end and back-end development, with a focus on building efficient and user-friendly web applications. Driven by a passion for technology and innovation, I am dedicated to honing my skills and contributing to impactful projects.</h3>
 <img align = "right" alt = "coding" width ="400" src = "https://www.wallcommunication.com/assets/images/we.gif">
