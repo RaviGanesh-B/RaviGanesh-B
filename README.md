@@ -1,7 +1,7 @@
-[![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm B.Ravi Ganesh</h1>
 <h3 align="center">Hey I'm RG a B.E-CSE graduate and a budding full-stack developer at the start of his career. I am skilled in both front-end and back-end development, with a focus on building efficient and user-friendly web applications. Driven by a passion for technology and innovation, I am dedicated to honing my skills and contributing to impactful projects.</h3>
-<img align = "right" alt = "coding" width ="400" src = "https://www.wallcommunication.com/assets/images/we.gif">
+<img align = "right" alt = "coding" width ="400" src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raviganesh-b&label=Profile%20views&color=0e75b6&style=flat" alt="raviganesh-b" /> </p>
 
