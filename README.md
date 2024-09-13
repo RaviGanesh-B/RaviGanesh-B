@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2iCvtC9djzp9_bU1jqitn2RTzFM3_33eNGA&s)
+![MasterHead](https://camo.githubusercontent.com/64fde10e402d3aaab6bdf83b74dd7275e18ec28ba031fa0fdb0c48990ab963d3/68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696e6b2f62616e6e65722e676966)
 <h1 align="center">Hi 👋, I'm B.Ravi Ganesh</h1>
 <h3 align="center">Hey I'm RG a B.E-CSE graduate and a budding full-stack developer at the start of his career. I am skilled in both front-end and back-end development, with a focus on building efficient and user-friendly web applications. Driven by a passion for technology and innovation, I am dedicated to honing my skills and contributing to impactful projects.</h3>
 <img align = "right" alt = "coding" width ="400" src = "https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
